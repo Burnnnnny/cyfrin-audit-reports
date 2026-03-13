@@ -2161,7 +2161,7 @@ function test_IncorrectUptimeDistributionWithRewards() public {
 이러한 완화 조치를 적용함으로써 플랫폼은 정확한 가동 시간 추적을 달성하고 공정한 보상 분배를 보장하며 검증자와 사용자 간의 신뢰를 유지할 수 있습니다.
 
 **Suzaku:**
-인지됨(Bounded).
+인지됨.
 
 **Cyfrin:** 인지됨(Acknowledged).
 
